@@ -1,0 +1,31 @@
+{
+  "name": "Future Tailors' Debouncer",
+  "keywords": "debounce, pins, bounce, button",
+  "description": "An efficient, low footprint, fast pin debouncing library for Arduino",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/ubidefeo/FTDebouncer"
+  },
+  "authors":
+  [
+    {
+      "name": "Ubi de Feo",
+      "email": "me@ubidefeo.com",
+      "url": "http://www.ubidefeo.com",
+      "maintainer": true
+    },
+    {
+      "name": "Sebastian Hunkeler",
+      "email": "",
+      "url": "https://twitter.com/sbhklr",
+      "maintainer": true
+    }
+  ],
+  "dependencies":
+  {
+  },
+  "version": "1.3.2",
+  "frameworks": "arduino",
+  "platforms": "*"
+}
